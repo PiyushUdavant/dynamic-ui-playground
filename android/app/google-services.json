@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169120728657",
+    "project_id": "dynamic-ui-playground",
+    "storage_bucket": "dynamic-ui-playground.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169120728657:android:1178a487db47e829a75a70",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_ui_playground"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFR_y_u6r7icqwyGYKaipfC2ZRKj18P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
